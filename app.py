@@ -222,8 +222,8 @@ with col2:
 # ============================================================
 st.divider()
 st.markdown(
-    "**Autor:** Franklin Manuel Manjarres · "
-    "st.markdown(
-    "**Repositorio:** [github.com/franklinmanjarres](https://github.com/franklinmanjarres/-Predicci-n-de-Precios-de-Vivienda-en-Bogot-Colombia)"
-)"
+    "**Franklin Manuel Manjarres**  \n"
+    "Cali, Colombia  \n"
+    "[github.com/franklinmanjarres](https://github.com/franklinmanjarres/-Predicci-n-de-Precios-de-Vivienda-en-Bogot-Colombia)  \n"
+    "[fw2z7ovawqtfw6gwnytndv.streamlit.app](https://fw2z7ovawqtfw6gwnytndv.streamlit.app)"
 )
