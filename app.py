@@ -223,6 +223,7 @@ with col2:
 st.divider()
 st.markdown(
     "**Autor:** Franklin Manuel Manjarres · "
-    "Universidad del Valle · "
-    "[github.com/franklinmanjarres](https://github.com/franklinmanjarres)"
+    "st.markdown(
+    "**Repositorio:** [github.com/franklinmanjarres](https://github.com/franklinmanjarres/-Predicci-n-de-Precios-de-Vivienda-en-Bogot-Colombia)"
+)"
 )
