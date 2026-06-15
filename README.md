@@ -1,4 +1,4 @@
-# Predicción de Precios de Vivienda — Bogotá, Colombia
+# Predicción de Precios de Vivienda en Bogotá | Machine Learning
 
 Modelo de regresión para estimar el precio de apartamentos en Bogotá a partir de características físicas, socioeconómicas y de ubicación. El proyecto cubre el pipeline completo de machine learning: limpieza de datos, análisis exploratorio, selección de variables, modelado con validación cruzada y análisis de residuos.
 
